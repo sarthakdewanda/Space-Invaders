@@ -33,7 +33,7 @@ function enter() {
 
   if (stars.length === 0) {
     createStars(stars); // Create stars
-  }
+  
 
   startTime = millis(); // Initialize startTime to the current time
   gameStatus = "Playing"; // Set the initial game status
