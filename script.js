@@ -1,4 +1,4 @@
-let xShip
+let xShip;
 let bullets;
 let aliens;
 let stars = [];
